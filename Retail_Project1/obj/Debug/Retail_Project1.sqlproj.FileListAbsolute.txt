@@ -1,0 +1,10 @@
+F:\Devops_Projects\Retail_Project1\bin\Debug\Retail_Project1.dacpac
+F:\Devops_Projects\Retail_Project1\bin\Debug\Retail_Project1.dll
+F:\Devops_Projects\Retail_Project1\bin\Debug\Retail_Project1.pdb
+F:\Devops_Projects\Retail_Project1\obj\Debug\Retail_Project1.sqlproj.AssemblyReference.cache
+F:\Devops_Projects\Retail_Project1\obj\Debug\Model.xml
+F:\Devops_Projects\Retail_Project1\obj\Debug\refactor.xml
+F:\Devops_Projects\Retail_Project1\obj\Debug\postdeploy.sql
+F:\Devops_Projects\Retail_Project1\obj\Debug\predeploy.sql
+F:\Devops_Projects\Retail_Project1\obj\Debug\Retail_Project1.dll
+F:\Devops_Projects\Retail_Project1\obj\Debug\Retail_Project1.pdb

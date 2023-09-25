@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[PRODUCT] (
+    [PID]   INT          NOT NULL,
+    [PNAME] VARCHAR (20) NULL,
+    PRIMARY KEY CLUSTERED ([PID] ASC)
+);
+
