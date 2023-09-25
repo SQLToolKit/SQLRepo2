@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[TAB2] (
+    [MSG]      NVARCHAR (100) NULL,
+    [MSG_DATE] DATETIME2 (7)  NULL
+);
+

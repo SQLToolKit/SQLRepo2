@@ -1,0 +1,10 @@
+F:\Devops_Projects\CPP_Project2\bin\Debug\CPP_Project2.dacpac
+F:\Devops_Projects\CPP_Project2\bin\Debug\CPP_Project2.dll
+F:\Devops_Projects\CPP_Project2\bin\Debug\CPP_Project2.pdb
+F:\Devops_Projects\CPP_Project2\obj\Debug\CPP_Project2.sqlproj.AssemblyReference.cache
+F:\Devops_Projects\CPP_Project2\obj\Debug\Model.xml
+F:\Devops_Projects\CPP_Project2\obj\Debug\refactor.xml
+F:\Devops_Projects\CPP_Project2\obj\Debug\postdeploy.sql
+F:\Devops_Projects\CPP_Project2\obj\Debug\predeploy.sql
+F:\Devops_Projects\CPP_Project2\obj\Debug\CPP_Project2.dll
+F:\Devops_Projects\CPP_Project2\obj\Debug\CPP_Project2.pdb
